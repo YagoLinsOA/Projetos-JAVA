@@ -10,7 +10,7 @@
 -    * Métodos Construtores.</br></br>
 - **Instância de Objetos** : Gerar um objeto apartir de uma Classe.
 ##
-- **Encaplulamento** : Ocultar partes independentes da implementação, permitindo construir partes invisíveis do mundo exterior. Através de seus Modificadores de Visibilidade.</br>
+- **Encapsulamento** : Ocultar partes independentes da implementação, permitindo construir partes invisíveis do mundo exterior. Através de seus Modificadores de Visibilidade.</br>
      * Public
      * Private 
      * Protected</br></br>
